@@ -1,0 +1,2 @@
+# customPythonMini
+Küçük Mini Scriptler
